@@ -1,0 +1,22 @@
+{
+  "name": "mobileback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokiniaina3443/MobileBack.git"
+  },
+  "author": "Tokiniaina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokiniaina3443/MobileBack/issues"
+  },
+  "homepage": "https://github.com/tokiniaina3443/MobileBack#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
