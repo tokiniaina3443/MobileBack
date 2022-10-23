@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://Andomahefa:Andomahefa2001.@cluster0.lne4g.mongodb.net/test', (err) => {
+mongoose.connect('mongodb+srv://Mobile:Mobile@mobile.6n2m6ey.mongodb.net/Mobile?retryWrites=true&w=majority', (err) => {
     if (!err) {
         console.log('Connection MongoDB success.');
     } else {
