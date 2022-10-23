@@ -5,7 +5,7 @@
         "JWT_EXP": "150m"
     },
     "production": {
-        "MONGODB_URI": "mongodb+srv://Mobile:Mobile@cluster0.emawm.mongodb.net/Mobile?retryWrites=true&w=majority",
+        "MONGODB_URI": "mongodb+srv://Mobile:Mobile@mobile.6n2m6ey.mongodb.net/Mobile?retryWrites=true&w=majority",
         "JWT_SECRET": "SECRET#123",
         "JWT_EXP": "150m"
     }
